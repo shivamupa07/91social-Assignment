@@ -1,4 +1,3 @@
-
 import os
 import datetime
 
@@ -18,10 +17,5 @@ file_name =  ts + extension
 file = open(file_name, 'w')
 file.write(data)
 file.close()
-             
-             
-             
-             
-             
-             
-             
+
+
